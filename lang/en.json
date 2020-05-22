@@ -1,0 +1,10 @@
+{
+  "login": "Login",
+  "register": "Create Account",
+  "name": "Name",
+  "emailAddress": "E-mail Address",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "go!": "Go!",
+  "loginGmail": "Login With Google"
+}
